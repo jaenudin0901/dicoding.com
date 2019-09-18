@@ -1,0 +1,84 @@
+.container 
+{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+}
+#navbar 
+{
+	width: 1000px;
+	height: 40px;
+	text-align: center;
+}
+#menu 
+{
+	padding: 0;
+	line-height: 36px;
+	margin-top: 5px;
+	float: left;
+
+}
+
+#menu li 
+{
+	list-style: none;
+	display: inline;
+}
+
+#menu a 
+{
+	columns: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	margin: 5px;
+	padding:10px;
+	color: white;
+
+}
+
+#menu a:hover 
+{
+	text-decoration: underline;
+}
+.content
+{
+	width: 1000px;
+	height: 500px;
+	text-align: center;
+}
+img {
+	padding-top: 20px;
+
+}
+table 
+{
+	text-align: left;
+	padding-left: 350px;
+}
+
+meter 
+{
+	width: 400px;
+}
+
+hr
+{
+	width: 200px;
+}
+
+p {
+	font-size: 18px;
+}
+ #about 
+ {
+ 	padding-left: 30px;
+ 	padding-right: 30px;
+
+ }
+
+.footer
+{
+	width: 990px;
+	height: 50px;
+	text-align: center;
+}
